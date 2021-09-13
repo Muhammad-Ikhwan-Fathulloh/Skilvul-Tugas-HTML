@@ -4,6 +4,6 @@ Skilvul Fullstack Bootcamp Learning HTML
 Link web di deploy dengan netlify
 https://tugashtml.netlify.app/
 
-Link replit
+Link replit 
 https://replit.com/@Muhammad-Ikhwa2/Tugas-HTML#index.html
 https://tugas-html.muhammad-ikhwa2.repl.co/index.html
